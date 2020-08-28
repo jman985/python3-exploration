@@ -1,0 +1,48 @@
+
+#container {
+  margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 10px 150px 10px 150px;
+    border-radius: 15px;
+    background-color: beige;
+    text-align: left;
+}
+#Employment {
+    font-size: 36px;
+}
+li {
+    font-size: 18px;
+    text-align: left;
+}
+h1 {
+    font-size: 50px;
+    margin-bottom: -25px;
+}
+h2 {
+    font-size: 18px;
+    margin-bottom: -6px;
+}
+h3 {
+    font-size: 26px;
+    margin-bottom: -10px;
+    border-bottom: 1px solid black;
+}
+h4 {
+    font-size: 22px;
+    margin-bottom: -10px;
+}
+#profile {
+    margin: 0 0 16px 0;
+    padding: 0 0 32px 0;
+    font-style: italic;
+    font-size: 20px;
+}
+#contact-info {
+    margin: 0 0 16px 0;
+    padding: 0 0 16px 0;
+    font-size: 42px;
+    font-weight: bold;
+    letter-spacing: -2px;
+    border-bottom: 1px solid black;
+}
